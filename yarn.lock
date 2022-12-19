@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@babylonjs/core@^5.38.0":
+  version "5.38.0"
+  resolved "https://registry.yarnpkg.com/@babylonjs/core/-/core-5.38.0.tgz#e640f7aa6365eec4572355d2fe6e627b9b6e4936"
+  integrity sha512-uZ1jPkx/agxFD8TbAaTkZnSiGV1tPDSG10XD35NE5ShJ5z11G9w9GavCxhfwrL1OPjCASuAaXQXzpzV+pN9u/A==
+
 "@builder.io/qwik-city@0.0.127":
   version "0.0.127"
   resolved "https://registry.yarnpkg.com/@builder.io/qwik-city/-/qwik-city-0.0.127.tgz#985be12ef82d452cd9e1cf3ceb8aaa644b933541"
